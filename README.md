@@ -5,7 +5,7 @@
 </h1>
 <br/>
 
-<h3 align="center">A passionate Java developer from Bangladesh</h3>
+<h3>A passionate Java developer from Bangladesh</h3>
 - 🌱 I’m currently learning **Docker,Kubernetes**
 
 - 👯 I’m looking to collaborate on **Java Projects**
